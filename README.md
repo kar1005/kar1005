@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@khushi-ruparelia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@khushi-ruparelia" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/khushi-ruparelia-10m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi-ruparelia-10m" height="30" width="40" /></a>
 <a href="https://instagram.com/_khushi1054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_khushi1054" height="30" width="40" /></a>
 <a href="https://medium.com/@khushiruparelia2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@khushiruparelia2004" height="30" width="40" /></a>
