@@ -113,7 +113,7 @@ const khushi = {
 
 ---
 
-## 🌟 Featured Projects
+<!--## 🌟 Featured Projects-->
 
 <!-- You can add your best projects here with brief descriptions -->
 
