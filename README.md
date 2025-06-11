@@ -1,85 +1,165 @@
-<h1 align="center">Hey there, I'm Khushi Ruparelia! 👋</h1>
-<h3 align="center">🚀 Building the Future, One Line of Code at a Time 🚀</h3>
+# 👋 Hey there! I'm Khushi Ruparelia
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kar1005&label=Profile%20views&color=0e75b6&style=flat" alt="kar1005" />
-</p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Passionate+Software+Engineer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
----
+<img src="https://komarev.com/ghpvc/?username=kar1005&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="kar1005" />
 
-🌟 **About Me**
-- 🏆 Passionate software engineer on a mission to craft innovative, user-centric solutions.
-- 🤖 AI/ML Enthusiast, always exploring the intersection of machine intelligence and real-world impact.
-- 📈 Committed to lifelong learning and sharing knowledge within the tech community.
+</div>
 
 ---
 
-🎯 **What Drives Me**
-- Turning complex challenges into elegant, scalable, and maintainable solutions.
-- Collaborating with brilliant minds to push the boundaries of technology.
-- Bridging the gap between ideas and reality through rapid prototyping and agile development.
+## 🚀 About Me
+
+```javascript
+const khushi = {
+    pronouns: "she/her",
+    location: "India 🇮🇳",
+    currentFocus: "Building innovative AI/ML solutions",
+    languages: ["Java", "Python", "JavaScript", "C++"],
+    frameworks: ["Spring Boot", "React", "Node.js", "Django"],
+    databases: ["MySQL", "MongoDB", "Oracle"],
+    cloud: ["AWS", "Firebase"],
+    currentlyLearning: "LLMs and NLP",
+    funFact: "I debug with console.log and I'm not ashamed! 😄"
+};
+```
 
 ---
 
-💼 **Current Focus**
-- Open to **collaborations** on AI/ML, backend systems, and impactful open-source projects.
-- Actively contributing to the community through blogs and mentoring.
+## 🛠️ Tech Arsenal
 
----
-
-🛠️ **Tech Stack**
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333?style=flat&logo=spring-boot)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![Angular](https://img.shields.io/badge/-Angular-333?style=flat&logo=angular)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
-<!-- Add more as relevant -->
-
----
-
-📫 **Let's Connect!**
+### 💻 Programming Languages
 <p align="left">
-  <a href="https://linkedin.com/in/khushi-ruparelia-10m" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" /></a>
-  <a href="https://instagram.com/_khushi1054" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram" /></a>
-  <a href="https://medium.com/@khushiruparelia2004" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium" /></a>
-  <a href="https://www.codechef.com/users/khushi_rupareli" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef" /></a>
-  <a href="https://leetcode.com/khushi_ruparelia" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/khushirupa7yi2" target="_blank"><img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks" /></a>
-</p>
-Email me: <b>khushiruparelia2004@gmail.com</b>
-
----
-
-🌱 **Featured Projects**
-- **[Project Name 1](#)**: Short description of something you’re proud of, what tech you used, and why it stands out.
-- **[Project Name 2](#)**: Another highlight—showcase your unique approach and skills.
-<!-- Add links to your repositories or portfolio -->
-
----
-
-📝 **Latest Blog Posts**
-- [How I Built My First AI Model](https://medium.com/@khushiruparelia2004) <!-- Example, update with real posts -->
-- [Lessons from Contributing to Open Source](https://medium.com/@khushiruparelia2004)
-<!-- Add more posts or remove this section if not relevant -->
-
----
-
-🔥 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kar1005&show_icons=true&theme=radical" alt="kar1005" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar1005&layout=compact&theme=radical" alt="kar1005" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kar1005&theme=radical" alt="kar1005" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,c,php" />
 </p>
 
+### 🎨 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,angular,bootstrap" />
+</p>
+
+### ⚙️ Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask,dotnet" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,aws,firebase" />
+</p>
+
+### 🤖 AI/ML & Data Science
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="48" height="48"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="48" height="48"/>
+</p>
+
+### 🛠️ Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,postman" />
+</p>
+
 ---
 
-💡 **Fun Facts**
-- 🎨 I love blending creativity with code—whether it’s through UI design or innovative ML models.
-- ✈️ Always up for a hackathon or tech meet-up!
-- 🎵 Coding playlists are my secret productivity hack.
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kar1005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar1005&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kar1005&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-✨ _Let’s create something amazing together!_
+## 🏆 GitHub Trophies
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=kar1005&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎯 What I'm Up To
+
+- 🔭 Currently working on **AI-powered web applications**
+- 🌱 Learning **Advanced Machine Learning algorithms** and **Cloud Architecture**
+- 👯 Looking to collaborate on **AI/ML projects** and **Open Source contributions**
+- 💡 Exploring **Computer Vision** and **Natural Language Processing**
+- 📚 Reading about **System Design** and **Scalable Architecture**
+
+---
+
+## 💼 Experience Highlights
+
+```
+🎓 Software Engineering Student
+🚀 Full Stack Development
+🤖 Machine Learning Projects
+☁️  Cloud Solutions with AWS
+📱 Mobile-First Web Applications
+```
+
+---
+
+## 🌟 Featured Projects
+
+<!-- You can add your best projects here with brief descriptions -->
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+[![Khushi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kar1005&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushi-ruparelia-10m)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_khushi1054)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@khushiruparelia2004)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/khushi_ruparelia)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/khushi_rupareli)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/khushirupa7yi2)
+
+</div>
+
+---
+
+## 📧 Get In Touch
+
+<div align="center">
+  
+**Email:** khushiruparelia2004@gmail.com
+
+*"The only way to do great work is to love what you do."* - Steve Jobs
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🚀 Thanks for visiting! Let's build something amazing together!
+
+![](https://hit.yhype.me/github/profile?user_id=kar1005)
+
+</div>
