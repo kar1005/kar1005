@@ -69,14 +69,27 @@ const khushi = {
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kar1005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar1005&layout=compact&langs_count=8&theme=tokyonight"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kar1005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kar1005&show_icons=true&theme=default&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kar1005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="Khushi's GitHub Stats"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kar1005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kar1005&layout=compact&langs_count=8&theme=default">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar1005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Most Used Languages"/>
+</picture>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kar1005&theme=tokyonight)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kar1005&theme=tokyonight&hide_border=true&background=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=kar1005&theme=default">
+  <img src="https://streak-stats.demolab.com?user=kar1005&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+</picture>
 
 </div>
 
@@ -85,7 +98,11 @@ const khushi = {
 ## 🏆 GitHub Trophies
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=kar1005&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=kar1005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=kar1005&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7">
+  <img src="https://github-profile-trophy.vercel.app/?username=kar1005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+</picture>
 
 </div>
 
@@ -113,17 +130,15 @@ const khushi = {
 
 ---
 
-<!--## 🌟 Featured Projects-->
-
-<!-- You can add your best projects here with brief descriptions -->
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
   
-[![Khushi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kar1005&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kar1005&theme=tokyo-night&hide_border=true&bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kar1005&theme=github-compact">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kar1005&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph"/>
+</picture>
 
 </div>
 
