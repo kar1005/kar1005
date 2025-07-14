@@ -42,7 +42,7 @@ const khushi = {
 
 ### ⚙️ Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask" />
 </p>
 
 ### 🗄️ Databases & Cloud
@@ -53,7 +53,6 @@ const khushi = {
 ### 🤖 AI/ML & Data Science
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="48" height="48"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="48" height="48"/>
 </p>
